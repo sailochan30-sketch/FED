@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+<h1>Personal Information</h1>
+<h2>Personal Information</h2>
+
+</head>
+
+<body>
+
+            <p><strong>Name:</strong>sailochan</p>
+            <p><strong>Email:</strong>sailochan30@gmail.com</p>
+            <p><strong>phone:</strong>8610989230</p>
+            <p><strong>company:</strong>Face Prep Campus</p>
+            <p><strong>Department:</strong>BSC.CS(AIML)</p>
+            <P><strong>Desgnation:</strong>Computer Science</P>
+            
+            <p>&#169;2026 Sailochan</p>
+</body>
+
